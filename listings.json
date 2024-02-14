@@ -2,6 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/hw3/mnist-model/mnist-prep.html",
+      "/posts/hw1/hw1.html",
+      "/posts/bruin/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
